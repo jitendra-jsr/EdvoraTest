@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Test-Suite">
+	<test name="Edvora Test">
+		<classes>
+			<class name="com.qa.Tests.CreateAccountTest001" />
+			<class name="com.qa.Tests.LoginTest002" />
+			<class name="com.qa.Tests.SettingsTest003" />
+		</classes>
+	</test>
+</suite>
